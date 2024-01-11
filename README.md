@@ -3,8 +3,8 @@
 Pasta dedicada aos exerícios de Spatial Analysis and Geospatial Data Science with Python - curso disponível na Udemy: 
 https://here.udemy.com/course/spatial-data-science-with-python/learn/lecture/20169798#overview
 
-* Arquivos originais do curso estão disponíveis como .zip  
-* Notebooks criados através dos exercícios estão disponíveis como .py
+* Arquivos originais para exercícios estão disponíveis no próprio curso.   
+* Notebooks criados através dos exercícios estão disponíveis como .py nesta pasta! 
 
 Principais aprendizados:
 * Introdução ao Geopandas
