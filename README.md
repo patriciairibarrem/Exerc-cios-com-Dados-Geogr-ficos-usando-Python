@@ -13,5 +13,5 @@ Principais aprendizados:
 * Visualização Interativa de Dados Geográficos
 * Operações Avançadas
 
-Note 1: O curso está em inglês, mas os arquivos criados/editados por mim estão em português. 
-Note 2: O termo Geospatial Data é traduzido como Dados Geográficos; e Spatial Data Science como Ciência de Dados Geográficos.
+Notea 1: O curso está em inglês, mas os arquivos criados/editados por mim estão em português.
+Nota 2: O termo Geospatial Data é traduzido como Dados Geográficos; e Spatial Data Science como Ciência de Dados Geográficos.
